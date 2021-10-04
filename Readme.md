@@ -41,3 +41,13 @@
 * [ ] Interesting Game
 * [ ] [GKS 2019 C P-A](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2/0000000000150aac)
 * [ ] [GCJ 2020 1A P-C](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1355)
+
+#### Foundational Maths
+* [ ] Can You Make C
+* [ ] Divide The Piles
+* [ ] Number of Ways to Reach B
+* [ ] Number of Diagonals
+* [ ] Number of Intersecting Diagonals
+* [ ] Number of Parts in Convex Polygon
+* [ ] Recurring Fractions
+* [ ] Solve The Equations
