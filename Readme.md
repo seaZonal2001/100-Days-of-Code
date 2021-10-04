@@ -4,11 +4,12 @@
 *NIT JSR*
 
 ## 🤔What is 100 Days of Code?
-100 Days of code is a commitment to practice DSA problems on sites like Leetcode,Hackerrank,GeeksForGeeks and along with this participating in all upcoming coding contest like on Codeforces,Codechef,Atcoder,,Hackerearth,Google Kickstart etc...
+100 Days of code is a commitment to practice DSA problems on sites like Leetcode,Hackerrank,GeeksForGeeks,Interviewbit,Prepbytes etc... and along with this participating in all upcoming coding contest like on Codeforces,Codechef,Atcoder,Hackerearth,Google Kickstart etc...
 
 ## 📋 What’s the plan? 
-- Devoting a *minimum* of 1 hours to learn new concepts.
+- Devoting a *minimum* of 2 hours to learn new concepts.
 - And solving problems on the learnt concepts until you feel comfortable.
+- Try giving every contest to track your progress.
 
 ## My Coding Profiles
 
