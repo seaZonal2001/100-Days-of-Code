@@ -25,7 +25,7 @@
 
 #### STL
 * [x] Student and Grades
-* [x] [https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1](Maximum in Window)
+* [x] [MAximum in Window](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
 * [x] [Colliding Balls](https://www.codechef.com/problems/BALLCOL)
 * [x] Buy Maximum Objects I
 * [X] Buy Maximum Objects II
