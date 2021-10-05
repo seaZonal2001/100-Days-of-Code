@@ -25,12 +25,12 @@
 
 #### STL
 * [x] Student and Grades
-* [ ] Maximum in Window
-* [ ] Collisions
-* [ ] Buy Maximum Objects I
-* [ ] Buy Maximum Objects II
-* [ ] Support Queries I
-* [ ] Support Queries II
+* [x] [https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1](Maximum in Window)
+* [x] [Colliding Balls](https://www.codechef.com/problems/BALLCOL)
+* [x] Buy Maximum Objects I
+* [X] Buy Maximum Objects II
+* [x] Support Queries I
+* [x] Support Queries II
 * [ ] Alice and Books
 * [ ] Rebuild Original Array
 * [ ] Diversify the Array
