@@ -21,6 +21,16 @@
 - [Hackerrank](https://www.hackerrank.com/surjit20012001)
 - [Atcoder](https://atcoder.jp/users/surjit_2001)
 
+
+## Resources
+- [Kunal Kushwaha](https://www.youtube.com/c/KunalKushwaha)
+- [take U forward](https://www.youtube.com/c/takeUforward)
+- [codebeyond](https://www.youtube.com/c/CodeBeyond)
+- [Priyansh Agarwal](https://www.youtube.com/c/PriyanshAgarwal)
+- [Errichto](https://www.youtube.com/c/Errichto2)
+- [luv](https://www.youtube.com/c/LuvIsMe)
+
+
 ## Week 1
 
 #### STL
@@ -31,10 +41,10 @@
 * [X] Buy Maximum Objects II
 * [x] Support Queries I
 * [x] Support Queries II
-* [ ] Alice and Books
-* [ ] Rebuild Original Array
-* [ ] Diversify the Array
-* [ ] Super Minimum Sum
+* [x] Alice and Books
+* [x] [Rebuild Original Array](https://www.codechef.com/problems/ANUMLA)
+* [x] Diversify the Array
+* [ ] [Super Minimum Sum](https://leetcode.com/problems/sum-of-subarray-minimums/)
 * [ ] Evaluating Boolean Expressions
 * [ ] Round and Round
 * [ ] Height of Soldiers
@@ -51,5 +61,12 @@
 * [ ] Number of Parts in Convex Polygon
 * [ ] Recurring Fractions
 * [ ] Solve The Equations
+
+#### This week's contest
+* [ ] [Codeforces Round #747 (Div. 2)](http://codeforces.com/contests/1594)
+* [ ] [Hackerearth:Data Structures and Algorithms Coding Contest](https://www.hackerearth.com/challenges/competitive/data-structures-and-algorithms-coding-contest-october-21/?utm_source=challenges-modern&utm_campaign=registered-challenges&utm_medium=right-panel)
+* [ ] [Prepbytes:CODIEEENG BY IEEE SIT, SIDDAGANGA INSTITUTE OF TECHNOLOGY](https://mycode.prepbytes.com/contest/CODIEEEING)
+* [ ] [Prepbytes:ALGO HORCRUX SOLO RUN BY NIT ROURKELA & IIT BHUBANESWAR](https://mycode.prepbytes.com/contest/SOLORUN2021)
+* [ ] [AtCoder Beginner Contest 222](https://atcoder.jp/contests/abc222)
 
 # NOTE : The above list may expand or contract
