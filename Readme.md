@@ -44,7 +44,7 @@
 * [x] Alice and Books
 * [x] [Rebuild Original Array](https://www.codechef.com/problems/ANUMLA)
 * [x] Diversify the Array
-* [ ] [Super Minimum Sum](https://leetcode.com/problems/sum-of-subarray-minimums/)
+* [x] [Super Minimum Sum](https://leetcode.com/problems/sum-of-subarray-minimums/)
 * [ ] Evaluating Boolean Expressions
 * [ ] Round and Round
 * [ ] Height of Soldiers
@@ -61,6 +61,12 @@
 * [ ] Number of Parts in Convex Polygon
 * [ ] Recurring Fractions
 * [ ] Solve The Equations
+
+#### Heap
+* [x] [Kth Smallest Element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1#)
+* [x] [K Largest Elements](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)
+* [x] [Nearly Sorted Algorithm](https://practice.geeksforgeeks.org/problems/nearly-sorted-algorithm/0)
+* [x] [Kth largest element in a stream](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1#)
 
 #### This week's contest
 * [ ] [Codeforces Round #747 (Div. 2)](http://codeforces.com/contests/1594)
