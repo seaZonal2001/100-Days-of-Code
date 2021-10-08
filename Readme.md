@@ -45,10 +45,10 @@
 * [x] [Rebuild Original Array](https://www.codechef.com/problems/ANUMLA)
 * [x] Diversify the Array
 * [x] [Super Minimum Sum](https://leetcode.com/problems/sum-of-subarray-minimums/)
-* [ ] Evaluating Boolean Expressions
-* [ ] Round and Round
-* [ ] Height of Soldiers
-* [ ] Interesting Game
+* [x] Evaluating Boolean Expressions
+* [x] Round and Round
+* [x] [Maximum of minimum for every window size](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1)
+* [x] Interesting Game
 * [ ] [GKS 2019 C P-A](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2/0000000000150aac)
 * [ ] [GCJ 2020 1A P-C](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1355)
 
@@ -67,6 +67,11 @@
 * [x] [K Largest Elements](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)
 * [x] [Nearly Sorted Algorithm](https://practice.geeksforgeeks.org/problems/nearly-sorted-algorithm/0)
 * [x] [Kth largest element in a stream](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1#)
+* [x] [Minimum Cost of Ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1git)
+* [x] [Top-K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+* [x] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+* [x] [Merge K Sorted Arrays](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
+* [x] [Rearrange characters ](https://practice.geeksforgeeks.org/problems/rearrange-characters4649/1)
 
 #### This week's contest
 * [ ] [Codeforces Round #747 (Div. 2)](http://codeforces.com/contests/1594)
@@ -74,5 +79,35 @@
 * [ ] [Prepbytes:CODIEEENG BY IEEE SIT, SIDDAGANGA INSTITUTE OF TECHNOLOGY](https://mycode.prepbytes.com/contest/CODIEEEING)
 * [ ] [Prepbytes:ALGO HORCRUX SOLO RUN BY NIT ROURKELA & IIT BHUBANESWAR](https://mycode.prepbytes.com/contest/SOLORUN2021)
 * [ ] [AtCoder Beginner Contest 222](https://atcoder.jp/contests/abc222)
+
+
+## Week 2
+
+#### Graph
+* [ ] Print Adjacency List
+* [ ] BFS of Graph
+* [ ] DFS of Graph
+* [ ] Find the Number of Islands
+* [ ] Detect Cycle in an Undirected Graph
+* [ ] Detect Cycle in Directed Graph
+* [ ] Find Whether Path Exist
+* [ ] Topological Sort
+* [ ] Level of Nodes
+* [ ] Possible Paths between 2 Vertices
+* [ ] X Total Shapes
+* [ ] Distance of Nearest Cell Having 1
+* [ ] Mother Vertex
+* [ ] Unit Area of Largest Region of 1's
+* [ ] Rotten Oranges
+* [ ] Minimum Swaps to Sort
+* [ ] Steps by Knight
+* [ ] Implementing Dijkstra Algorithm
+* [ ] Floyd Warshall Algorithm
+* [ ] Minimum Spannning Tree
+* [ ] Strongly Connected Components(Kosaraju's Algo)
+* [ ] Minimum Cost Path
+* [ ] Bridge Edge in a Graph
+* [ ] Strongly Connected Component(Tarjan's Algo)
+
 
 # NOTE : The above list may expand or contract
