@@ -72,12 +72,12 @@
 * [x] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 * [x] [Merge K Sorted Arrays](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
 * [x] [Rearrange characters ](https://practice.geeksforgeeks.org/problems/rearrange-characters4649/1)
+* [x] [Median in a Stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1)
 
 #### This week's contest
-* [ ] [Codeforces Round #747 (Div. 2)](http://codeforces.com/contests/1594)
-* [ ] [Hackerearth:Data Structures and Algorithms Coding Contest](https://www.hackerearth.com/challenges/competitive/data-structures-and-algorithms-coding-contest-october-21/?utm_source=challenges-modern&utm_campaign=registered-challenges&utm_medium=right-panel)
+* [x] [Codeforces Round #747 (Div. 2)](http://codeforces.com/contests/1594)
+* [x] [Hackerearth:Data Structures and Algorithms Coding Contest](https://www.hackerearth.com/challenges/competitive/data-structures-and-algorithms-coding-contest-october-21/?utm_source=challenges-modern&utm_campaign=registered-challenges&utm_medium=right-panel)
 * [ ] [Prepbytes:CODIEEENG BY IEEE SIT, SIDDAGANGA INSTITUTE OF TECHNOLOGY](https://mycode.prepbytes.com/contest/CODIEEEING)
-* [ ] [Prepbytes:ALGO HORCRUX SOLO RUN BY NIT ROURKELA & IIT BHUBANESWAR](https://mycode.prepbytes.com/contest/SOLORUN2021)
 * [ ] [AtCoder Beginner Contest 222](https://atcoder.jp/contests/abc222)
 
 
