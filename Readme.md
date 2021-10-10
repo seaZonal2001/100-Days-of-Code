@@ -49,12 +49,12 @@
 * [x] Round and Round
 * [x] [Maximum of minimum for every window size](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1)
 * [x] Interesting Game
-* [ ] [GKS 2019 C P-A](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2/0000000000150aac)
-* [ ] [GCJ 2020 1A P-C](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1355)
+* [x] [GKS 2019 C P-A](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2/0000000000150aac)
+* [x] [GCJ 2020 1A P-C](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1355)
 
 #### Foundational Maths
-* [ ] Can You Make C
-* [ ] Divide The Piles
+* [x] Can You Make C
+* [x] Divide The Piles
 * [ ] Number of Ways to Reach B
 * [ ] Number of Diagonals
 * [ ] Number of Intersecting Diagonals
@@ -76,9 +76,10 @@
 
 #### This week's contest
 * [x] [Codeforces Round #747 (Div. 2)](http://codeforces.com/contests/1594)
+* [x] [Educational Codeforces Round 115 (Rated for Div. 2)](https://codeforces.com/contest/1598)
 * [x] [Hackerearth:Data Structures and Algorithms Coding Contest](https://www.hackerearth.com/challenges/competitive/data-structures-and-algorithms-coding-contest-october-21/?utm_source=challenges-modern&utm_campaign=registered-challenges&utm_medium=right-panel)
-* [ ] [Prepbytes:CODIEEENG BY IEEE SIT, SIDDAGANGA INSTITUTE OF TECHNOLOGY](https://mycode.prepbytes.com/contest/CODIEEEING)
-* [ ] [AtCoder Beginner Contest 222](https://atcoder.jp/contests/abc222)
+* [x] [Prepbytes:CODIEEENG BY IEEE SIT, SIDDAGANGA INSTITUTE OF TECHNOLOGY](https://mycode.prepbytes.com/contest/CODIEEEING)
+* [ ] [AtCoder Beginner Contest 222(missed)](https://atcoder.jp/contests/abc222)
 
 
 ## Week 2
