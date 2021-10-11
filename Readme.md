@@ -55,12 +55,12 @@
 #### Foundational Maths
 * [x] Can You Make C
 * [x] Divide The Piles
-* [ ] Number of Ways to Reach B
-* [ ] Number of Diagonals
-* [ ] Number of Intersecting Diagonals
-* [ ] Number of Parts in Convex Polygon
-* [ ] Recurring Fractions
-* [ ] Solve The Equations
+* [x] Number of Ways to Reach B
+* [x] Number of Diagonals
+* [x] Number of Intersecting Diagonals
+* [x] Number of Parts in Convex Polygon
+* [x] [Recurring Fractions](https://practice.geeksforgeeks.org/problems/a-simple-fraction0921/1)
+
 
 #### Heap
 * [x] [Kth Smallest Element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1#)
