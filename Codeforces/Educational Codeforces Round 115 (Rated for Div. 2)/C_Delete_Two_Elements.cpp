@@ -26,7 +26,7 @@ return sum;
 //}
 int getPairsCount(vector<int> &arr, int n, float sum)
 {
-    unordered_map<float, int> m;
+    map<float, int> m;
  
  
     for (int i = 0; i < n; i++)

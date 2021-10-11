@@ -26,22 +26,17 @@ return sum;
 //}
 void solve(){
  int n;cin>>n;
- int ans=n*(n-1)*(n-2)/6;
+ vector<vector<int>> arr(n,vector<int>(2));
 
- int x,y;
- map<int,int> hash;
+ map<int,int> topic,difficulty;
  for(int i=0;i<n;i++){
-     cin>>x>>y;
-     hash[x]++;
+     cin>>arr[i][0]>>arr[i][1];
+     topic[arr[i][0]]++;
+     difficulty[arr[i][1]]++;
  }
- for(auto &i:hash){
-     if(i.second>1){
-         ans-=(i.second*(i.second-1)/2)*(n-i.second);
-         if(i.second>2){
-             ans-=i.second*(i.second-1)*(i.second-2)/6;
-         }
-
-     }
+ int ans=1LL*n*(n-1)*(n-2)/6;
+ for(int i=0;i<n;i++){
+     ans-=1LL*(topic[arr[i][0]]-1)*(difficulty[arr[i][1]]-1);
  }
  cout<<ans<<'\n';
 }

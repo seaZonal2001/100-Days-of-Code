@@ -85,9 +85,9 @@
 ## Week 2
 
 #### Graph
-* [ ] Print Adjacency List
-* [ ] BFS of Graph
-* [ ] DFS of Graph
+* [x] [Print Adjacency List](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1#)
+* [x] [BFS of Graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
+* [x] [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1#)
 * [ ] Find the Number of Islands
 * [ ] Detect Cycle in an Undirected Graph
 * [ ] Detect Cycle in Directed Graph
@@ -109,6 +109,14 @@
 * [ ] Minimum Cost Path
 * [ ] Bridge Edge in a Graph
 * [ ] Strongly Connected Component(Tarjan's Algo)
+
+#### Greedy Algo
+* [ ] Activity Selection
+* [ ] Huffman Decoding
+* [ ] N Meetings in One Room
+* [ ] Fractional Knapsack
+* [ ] Largest Number With Given Sum
+* [ ] Job Sequencing Problem
 
 
 # NOTE : The above list may expand or contract
