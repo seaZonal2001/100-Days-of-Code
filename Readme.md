@@ -88,8 +88,9 @@
 * [x] [Print Adjacency List](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1#)
 * [x] [BFS of Graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
 * [x] [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1#)
-* [ ] Find the Number of Islands
-* [ ] Detect Cycle in an Undirected Graph
+* [x] [Find the Number of Islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1)
+* [x] [Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach/problem)
+* [x] [Detect Cycle in an Undirected Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1#)
 * [ ] Detect Cycle in Directed Graph
 * [ ] Find Whether Path Exist
 * [ ] Topological Sort
@@ -118,5 +119,62 @@
 * [ ] Largest Number With Given Sum
 * [ ] Job Sequencing Problem
 
+#### This Week's Contest
+* [ ] [CODECHEF STARTERS 15 ](https://www.codechef.com/START15)
+* [ ] [SNACKDOWN 2021 - ONLINE QUALIFIER](https://www.codechef.com/SNCKQL21)
+* [ ] [Codeforces Round #748 (Div. 3)](https://codeforces.com/contests/1593)
+* [ ] [Codeforces Round #749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1)](https://codeforces.com/contests/1586)
+* [ ] [Kickstart Round G 2021](https://codingcompetitions.withgoogle.com/kickstart/round/00000000004362d6)
 
+## Week 3
+
+#### Backtracking
+* [ ] Largest Number in K swaps
+* [ ] Rat Maze with Multiple Jumps
+* [ ] Black and White
+* [ ] Combination Sum
+* [ ] Unique Subsets
+* [ ] M-Coloring Problem
+* [ ] Solve The Sudoku
+
+#### Dynamic Programming
+* [ ] Fibonacci Numbers - Bottom Up DP
+* [ ] Fibonacci Numbers - Top Down DP
+* [ ] Print first n Fibonacci Numbers
+* [ ] Nth catalan number
+* [ ] Coin Change - Minimum number of coins
+* [ ] Coin Change - Number of ways
+* [ ] Ways to write n as sum
+* [ ] Count ways to reach the n'th stair
+* [ ] Count ways to N'th Stair(Order does not matter)
+* [ ] Count number of hops
+* [ ] Reach a given score
+* [ ] Minimum number of jumps
+* [ ] nCr
+* [ ] Kadane's Algorithm - I
+* [ ] Kadane's Algorithm - II
+* [ ] Unique BST's
+* [ ] Sum of all substrings of a number
+* [ ] Max sum subarray by removing at most one element
+* [ ] Longest Increasing Subsequence
+* [ ] Longest Common Subsequence
+* [ ] Shortest Common Supersequence
+* [ ] Number of Unique Paths
+* [ ] Maximize The Cut Segments
+* [ ] Subset Sum Problem
+* [ ] 0 - 1 Knapsack Problem
+* [ ] Optimal Strategy For A Game
+* [ ] Egg Dropping Puzzle
+* [ ] Stickler Thief
+
+
+## Week 4
+
+#### Trie
+* [ ] Trie _ (Insert and Search)
+* [ ] Search Query for Strings
+* [ ] Renaming Cities
+* [ ] Camel Case
+* [ ] Contiguous Elements XOR
+* [ ] Most frequent word in an array of strings
 # NOTE : The above list may expand or contract
