@@ -23,6 +23,7 @@
 
 
 ## Resources
+- [CP-Algorithms](https://cp-algorithms.com/)
 - [Kunal Kushwaha](https://www.youtube.com/c/KunalKushwaha)
 - [take U forward](https://www.youtube.com/c/takeUforward)
 - [codebeyond](https://www.youtube.com/c/CodeBeyond)
@@ -91,9 +92,9 @@
 * [x] [Find the Number of Islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1)
 * [x] [Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach/problem)
 * [x] [Detect Cycle in an Undirected Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1#)
-* [ ] Detect Cycle in Directed Graph
-* [ ] Find Whether Path Exist
-* [ ] Topological Sort
+* [x] [Detect Cycle in Directed Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
+* [x] [Find Whether Path Exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist5238/1#)
+* [x] [Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)
 * [ ] Level of Nodes
 * [ ] Possible Paths between 2 Vertices
 * [ ] X Total Shapes
@@ -120,9 +121,9 @@
 * [ ] Job Sequencing Problem
 
 #### This Week's Contest
-* [ ] [CODECHEF STARTERS 15 ](https://www.codechef.com/START15)
+* [x] [CODECHEF STARTERS 15 ](https://www.codechef.com/START15)
 * [ ] [SNACKDOWN 2021 - ONLINE QUALIFIER](https://www.codechef.com/SNCKQL21)
-* [ ] [Codeforces Round #748 (Div. 3)](https://codeforces.com/contests/1593)
+* [x] [Codeforces Round #748 (Div. 3)](https://codeforces.com/contests/1593)
 * [ ] [Codeforces Round #749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1)](https://codeforces.com/contests/1586)
 * [ ] [Kickstart Round G 2021](https://codingcompetitions.withgoogle.com/kickstart/round/00000000004362d6)
 
