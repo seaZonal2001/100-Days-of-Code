@@ -5,8 +5,39 @@ using namespace std;
 class Solution
 {
 	public:
-	//Function to return list containing vertices in Topological order. 
+
+
+	//Function to return list containing vertices in Topological order.
+
+    //DFS Based
+    
+    void dfs(int i,vector<int> adj[],vector<bool>& visited,stack<int>& st){
+	    visited[i]=true;
+	    for(auto v:adj[i]){
+	        if(!visited[v]){
+	            dfs(v,adj,visited,st);
+	        }
+	    }
+	    st.push(i);
+	}
 	vector<int> topoSort(int V, vector<int> adj[]) 
+	{
+	    // code here
+	    vector<int> ans;
+	    vector<bool> visited(V);
+	    stack<int> st;
+	    for(int i=0;i<V;i++){
+	        if(!visited[i]){
+	            dfs(i,adj,visited,st);
+	        }
+	    }
+	    while(st.size()>0)ans.push_back(st.top()),st.pop();
+	    return ans;
+	} 
+
+    //BFS Based (Kahn's Algo)
+
+	vector<int> topoSort(int V, vector<int> adj[])  
 	{
 	    // code here
 	    vector<int> indegree(V);

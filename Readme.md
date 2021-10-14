@@ -30,6 +30,7 @@
 - [Priyansh Agarwal](https://www.youtube.com/c/PriyanshAgarwal)
 - [Errichto](https://www.youtube.com/c/Errichto2)
 - [luv](https://www.youtube.com/c/LuvIsMe)
+- [Colin Galen](https://www.youtube.com/channel/UCpvS3EykHW--l0ogUhMEjEw)
 
 
 ## Week 1
@@ -95,9 +96,9 @@
 * [x] [Detect Cycle in Directed Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
 * [x] [Find Whether Path Exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist5238/1#)
 * [x] [Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)
-* [ ] Level of Nodes
-* [ ] Possible Paths between 2 Vertices
-* [ ] X Total Shapes
+* [x] [Level of Nodes](https://practice.geeksforgeeks.org/problems/level-of-nodes-1587115620/1#)
+* [x] [Possible Paths between 2 Vertices](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/)
+* [x] [X Total Shapes](https://practice.geeksforgeeks.org/problems/x-total-shapes3617/1)
 * [ ] Distance of Nearest Cell Having 1
 * [ ] Mother Vertex
 * [ ] Unit Area of Largest Region of 1's
@@ -128,6 +129,9 @@
 * [ ] [Kickstart Round G 2021](https://codingcompetitions.withgoogle.com/kickstart/round/00000000004362d6)
 
 ## Week 3
+
+#### Bitwise Operations
+* [ ] [Topic Stream Mashup: Bitwise Operations](https://codeforces.com/gym/344975)
 
 #### Backtracking
 * [ ] Largest Number in K swaps
