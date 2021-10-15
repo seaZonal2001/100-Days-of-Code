@@ -99,10 +99,10 @@
 * [x] [Level of Nodes](https://practice.geeksforgeeks.org/problems/level-of-nodes-1587115620/1#)
 * [x] [Possible Paths between 2 Vertices](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/)
 * [x] [X Total Shapes](https://practice.geeksforgeeks.org/problems/x-total-shapes3617/1)
-* [ ] Distance of Nearest Cell Having 1
-* [ ] Mother Vertex
-* [ ] Unit Area of Largest Region of 1's
-* [ ] Rotten Oranges
+* [x] [Distance of Nearest Cell Having 1](https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1)
+* [ ] Mother Vertex(efficient approach requires knowledge of strongly connected component ..so left for today)
+* [x] [Unit Area of Largest Region of 1's](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1#)
+* [x] [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)
 * [ ] Minimum Swaps to Sort
 * [ ] Steps by Knight
 * [ ] Implementing Dijkstra Algorithm
@@ -171,7 +171,7 @@
 * [ ] Optimal Strategy For A Game
 * [ ] Egg Dropping Puzzle
 * [ ] Stickler Thief
-
+* [ ] [Educational DP Contest](https://atcoder.jp/contests/dp)
 
 ## Week 4
 
