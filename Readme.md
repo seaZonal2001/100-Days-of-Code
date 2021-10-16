@@ -103,8 +103,8 @@
 * [ ] Mother Vertex(efficient approach requires knowledge of strongly connected component ..so left for today)
 * [x] [Unit Area of Largest Region of 1's](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1#)
 * [x] [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)
-* [ ] Minimum Swaps to Sort
-* [ ] Steps by Knight
+* [x] [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
+* [x] [Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1#)
 * [ ] Implementing Dijkstra Algorithm
 * [ ] Floyd Warshall Algorithm
 * [x] [Minimum Spannning Tree(Prim's Algorithm)](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)
