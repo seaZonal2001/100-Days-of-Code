@@ -107,7 +107,7 @@
 * [ ] Steps by Knight
 * [ ] Implementing Dijkstra Algorithm
 * [ ] Floyd Warshall Algorithm
-* [ ] Minimum Spannning Tree
+* [x] [Minimum Spannning Tree(Prim's Algorithm)](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)
 * [ ] Strongly Connected Components(Kosaraju's Algo)
 * [ ] Minimum Cost Path
 * [ ] Bridge Edge in a Graph
@@ -123,10 +123,10 @@
 
 #### This Week's Contest
 * [x] [CODECHEF STARTERS 15 ](https://www.codechef.com/START15)
-* [ ] [SNACKDOWN 2021 - ONLINE QUALIFIER](https://www.codechef.com/SNCKQL21)
+* [x] [SNACKDOWN 2021 - ONLINE QUALIFIER](https://www.codechef.com/SNCKQL21)
 * [x] [Codeforces Round #748 (Div. 3)](https://codeforces.com/contests/1593)
 * [ ] [Codeforces Round #749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1)](https://codeforces.com/contests/1586)
-* [ ] [Kickstart Round G 2021](https://codingcompetitions.withgoogle.com/kickstart/round/00000000004362d6)
+* [x] [Kickstart Round G 2021](https://codingcompetitions.withgoogle.com/kickstart/round/00000000004362d6)
 
 ## Week 3
 
