@@ -105,7 +105,7 @@
 * [x] [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)
 * [x] [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
 * [x] [Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1#)
-* [ ] Implementing Dijkstra Algorithm
+* [x] [Implementing Dijkstra Algorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
 * [ ] Floyd Warshall Algorithm
 * [x] [Minimum Spannning Tree(Prim's Algorithm)](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)
 * [ ] Strongly Connected Components(Kosaraju's Algo)
