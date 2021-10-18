@@ -86,7 +86,7 @@
 
 ## Week 2
 
-#### Graph
+#### Graph-I
 * [x] [Print Adjacency List](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1#)
 * [x] [BFS of Graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
 * [x] [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1#)
@@ -100,15 +100,29 @@
 * [x] [Possible Paths between 2 Vertices](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/)
 * [x] [X Total Shapes](https://practice.geeksforgeeks.org/problems/x-total-shapes3617/1)
 * [x] [Distance of Nearest Cell Having 1](https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1)
-* [ ] Mother Vertex(efficient approach requires knowledge of strongly connected component ..so left for today)
 * [x] [Unit Area of Largest Region of 1's](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1#)
 * [x] [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)
 * [x] [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
 * [x] [Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1#)
 * [x] [Implementing Dijkstra Algorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
-* [ ] Floyd Warshall Algorithm
+* [x] [Hamiltonian Path](https://practice.geeksforgeeks.org/problems/hamiltonian-path2522/1#)
 * [x] [Minimum Spannning Tree(Prim's Algorithm)](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)
-* [ ] Strongly Connected Components(Kosaraju's Algo)
+
+
+#### This Week's Contest
+* [x] [CODECHEF STARTERS 15 ](https://www.codechef.com/START15)
+* [x] [SNACKDOWN 2021 - ONLINE QUALIFIER](https://www.codechef.com/SNCKQL21)
+* [x] [Codeforces Round #748 (Div. 3)](https://codeforces.com/contests/1593)
+* [x] [Codeforces Round #749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1)](https://codeforces.com/contests/1586)
+* [x] [Kickstart Round G 2021](https://codingcompetitions.withgoogle.com/kickstart/round/00000000004362d6)
+
+## Week 3
+
+#### Graph-II
+* [ ] Mother Vertex(efficient approach requires knowledge of strongly connected component ..so left for today)
+* [ ] Floyd Warshall Algorithm
+* [x] [Strongly Connected Components(Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1#)
+* [X] [Bellman Ford Shortest Path Algorithm](https://practice.geeksforgeeks.org/problems/negative-weight-cycle3504/1)
 * [ ] Minimum Cost Path
 * [ ] Bridge Edge in a Graph
 * [ ] Strongly Connected Component(Tarjan's Algo)
@@ -121,15 +135,6 @@
 * [ ] Largest Number With Given Sum
 * [ ] Job Sequencing Problem
 
-#### This Week's Contest
-* [x] [CODECHEF STARTERS 15 ](https://www.codechef.com/START15)
-* [x] [SNACKDOWN 2021 - ONLINE QUALIFIER](https://www.codechef.com/SNCKQL21)
-* [x] [Codeforces Round #748 (Div. 3)](https://codeforces.com/contests/1593)
-* [ ] [Codeforces Round #749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1)](https://codeforces.com/contests/1586)
-* [x] [Kickstart Round G 2021](https://codingcompetitions.withgoogle.com/kickstart/round/00000000004362d6)
-
-## Week 3
-
 #### Bitwise Operations
 * [ ] [Topic Stream Mashup: Bitwise Operations](https://codeforces.com/gym/344975)
 
@@ -141,6 +146,8 @@
 * [ ] Unique Subsets
 * [ ] M-Coloring Problem
 * [ ] Solve The Sudoku
+
+## Week 4
 
 #### Dynamic Programming
 * [ ] Fibonacci Numbers - Bottom Up DP
@@ -172,8 +179,6 @@
 * [ ] Egg Dropping Puzzle
 * [ ] Stickler Thief
 * [ ] [Educational DP Contest](https://atcoder.jp/contests/dp)
-
-## Week 4
 
 #### Trie
 * [ ] Trie _ (Insert and Search)
