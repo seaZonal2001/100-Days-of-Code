@@ -123,6 +123,9 @@
 * [ ] Floyd Warshall Algorithm
 * [x] [Strongly Connected Components(Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1#)
 * [X] [Bellman Ford Shortest Path Algorithm](https://practice.geeksforgeeks.org/problems/negative-weight-cycle3504/1)
+* [x] [Articulation Point-I](https://practice.geeksforgeeks.org/problems/articulation-point-1/0/#)
+* [x] [Articulation Point-II](https://practice.geeksforgeeks.org/problems/articulation-point2616/1/#)
+* [x] [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
 * [ ] Minimum Cost Path
 * [ ] Bridge Edge in a Graph
 * [ ] Strongly Connected Component(Tarjan's Algo)
