@@ -119,7 +119,7 @@
 ## Week 3
 
 #### Graph-II
-* [ ] Mother Vertex(efficient approach requires knowledge of strongly connected component ..so left for today)
+* [x] [Mother Vertex](https://practice.geeksforgeeks.org/problems/mother-vertex/1/#)
 * [ ] Floyd Warshall Algorithm
 * [x] [Strongly Connected Components(Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1#)
 * [X] [Bellman Ford Shortest Path Algorithm](https://practice.geeksforgeeks.org/problems/negative-weight-cycle3504/1)
@@ -127,8 +127,8 @@
 * [x] [Articulation Point-II](https://practice.geeksforgeeks.org/problems/articulation-point2616/1/#)
 * [x] [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
 * [ ] Minimum Cost Path
-* [ ] Bridge Edge in a Graph
-* [ ] Strongly Connected Component(Tarjan's Algo)
+* [x] [Bridge Edge in a Graph](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1#)
+* [x] [Strongly Connected Component(Tarjan's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1#)
 
 #### Greedy Algo
 * [ ] Activity Selection
