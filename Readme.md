@@ -131,12 +131,27 @@
 * [x] [Strongly Connected Component(Tarjan's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1#)
 
 #### Greedy Algo
-* [ ] Activity Selection
-* [ ] Huffman Decoding
+* [x] [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1#)
+* [x] [Huffman Decoding](https://practice.geeksforgeeks.org/problems/huffman-decoding/1)
 * [ ] N Meetings in One Room
 * [ ] Fractional Knapsack
 * [ ] Largest Number With Given Sum
-* [ ] Job Sequencing Problem
+* [ ] Job Sequencing Problem(Efficient Approach (NlogN) Requires knowledge of DSU)
+* [ ] Permute The Arrays
+* [ ] Meet At a Point
+* [ ] Make It Smooth
+* [ ] Selling Cookies
+* [ ] Fibonacci Breakdown
+* [ ] Fast Solving
+* [ ] Jobs
+* [ ] Destroying Intervals
+* [ ] Dearrange
+* [ ] Like Stocks
+* [ ] Square Sums
+* [ ] Palindrome Swaps
+* [ ] Mining
+* [ ] Weights
+* [ ] Light em Up
 
 #### Bitwise Operations
 * [ ] [Topic Stream Mashup: Bitwise Operations](https://codeforces.com/gym/344975)
