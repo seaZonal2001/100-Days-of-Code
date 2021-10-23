@@ -133,9 +133,9 @@
 #### Greedy Algo
 * [x] [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1#)
 * [x] [Huffman Decoding](https://practice.geeksforgeeks.org/problems/huffman-decoding/1)
-* [ ] N Meetings in One Room
-* [ ] Fractional Knapsack
-* [ ] Largest Number With Given Sum
+* [x] [N Meetings in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#)
+* [x] [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#)
+* [x] [Largest Number With Given Sum](https://practice.geeksforgeeks.org/problems/largest-number-with-given-sum-1587115620/1#)
 * [ ] Job Sequencing Problem(Efficient Approach (NlogN) Requires knowledge of DSU)
 * [ ] Permute The Arrays
 * [ ] Meet At a Point
