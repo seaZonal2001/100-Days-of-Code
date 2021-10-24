@@ -137,11 +137,11 @@
 * [x] [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#)
 * [x] [Largest Number With Given Sum](https://practice.geeksforgeeks.org/problems/largest-number-with-given-sum-1587115620/1#)
 * [ ] Job Sequencing Problem(Efficient Approach (NlogN) Requires knowledge of DSU)
-* [ ] Permute The Arrays
-* [ ] Meet At a Point
-* [ ] Make It Smooth
+* [x] Permute The Arrays
+* [x] Meet At a Point
+* [x] Make It Smooth
 * [ ] Selling Cookies
-* [ ] Fibonacci Breakdown
+* [x] [Fibonacci Breakdown](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)
 * [ ] Fast Solving
 * [ ] Jobs
 * [ ] Destroying Intervals
