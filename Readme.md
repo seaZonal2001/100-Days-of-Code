@@ -130,22 +130,26 @@
 * [x] [Bridge Edge in a Graph](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1#)
 * [x] [Strongly Connected Component(Tarjan's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1#)
 
-#### Greedy Algo
+#### Greedy Algo I
 * [x] [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1#)
 * [x] [Huffman Decoding](https://practice.geeksforgeeks.org/problems/huffman-decoding/1)
 * [x] [N Meetings in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#)
 * [x] [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#)
 * [x] [Largest Number With Given Sum](https://practice.geeksforgeeks.org/problems/largest-number-with-given-sum-1587115620/1#)
-* [ ] Job Sequencing Problem(Efficient Approach (NlogN) Requires knowledge of DSU)
 * [x] Permute The Arrays
 * [x] Meet At a Point
 * [x] Make It Smooth
-* [ ] Selling Cookies
 * [x] [Fibonacci Breakdown](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)
-* [ ] Fast Solving
-* [ ] Jobs
-* [ ] Destroying Intervals
-* [ ] Dearrange
+
+## Week 4
+
+#### Greedy Algo II
+* [ ] Job Sequencing Problem(Efficient Approach (NlogN) Requires knowledge of DSU)
+* [x] Selling Cookies
+* [x] Fast Solving
+* [x] Jobs
+* [x] [Destroying Intervals](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+* [x] Dearrange
 * [ ] Like Stocks
 * [ ] Square Sums
 * [ ] Palindrome Swaps
@@ -164,8 +168,6 @@
 * [ ] Unique Subsets
 * [ ] M-Coloring Problem
 * [ ] Solve The Sudoku
-
-## Week 4
 
 #### Dynamic Programming
 * [ ] Fibonacci Numbers - Bottom Up DP
