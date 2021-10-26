@@ -150,11 +150,11 @@
 * [x] Jobs
 * [x] [Destroying Intervals](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 * [x] Dearrange
-* [ ] Like Stocks
-* [ ] Square Sums
-* [ ] Palindrome Swaps
-* [ ] Mining
-* [ ] Weights
+* [x] [Not a Subset Sum](https://practice.geeksforgeeks.org/problems/smallest-number-subset1220/1)
+* [x] Like Stocks
+* [x] Square Sums
+* [x] [Palindrome Swaps](https://www.codechef.com/problems/ENCD12)
+* [x] Mining
 * [ ] Light em Up
 
 #### Bitwise Operations
