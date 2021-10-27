@@ -144,7 +144,7 @@
 ## Week 4
 
 #### Greedy Algo II
-* [ ] Job Sequencing Problem(Efficient Approach (NlogN) Requires knowledge of DSU)
+* [x] [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)
 * [x] Selling Cookies
 * [x] Fast Solving
 * [x] Jobs
@@ -155,7 +155,7 @@
 * [x] Square Sums
 * [x] [Palindrome Swaps](https://www.codechef.com/problems/ENCD12)
 * [x] Mining
-* [ ] Light em Up
+* [x] Light em Up
 
 #### Bitwise Operations
 * [ ] [Topic Stream Mashup: Bitwise Operations](https://codeforces.com/gym/344975)
