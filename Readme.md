@@ -161,9 +161,10 @@
 * [ ] [Topic Stream Mashup: Bitwise Operations](https://codeforces.com/gym/344975)
 
 #### Backtracking
+* [x] [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#)
 * [ ] Largest Number in K swaps
-* [ ] Rat Maze with Multiple Jumps
-* [ ] Black and White
+* [x] [Rat Maze with Multiple Jumps](https://practice.geeksforgeeks.org/problems/rat-maze-with-multiple-jumps3852/1#)
+* [x] [Black and White](https://practice.geeksforgeeks.org/problems/black-and-white-1587115620/1#)
 * [ ] Combination Sum
 * [ ] Unique Subsets
 * [ ] M-Coloring Problem
