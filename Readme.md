@@ -162,10 +162,10 @@
 
 #### Backtracking
 * [x] [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#)
-* [ ] Largest Number in K swaps
+* [x] [Largest Number in K swaps](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1#)
 * [x] [Rat Maze with Multiple Jumps](https://practice.geeksforgeeks.org/problems/rat-maze-with-multiple-jumps3852/1#)
 * [x] [Black and White](https://practice.geeksforgeeks.org/problems/black-and-white-1587115620/1#)
-* [ ] Combination Sum
+* [x] [Combination Sum](https://practice.geeksforgeeks.org/problems/combination-sum-1587115620/1#)
 * [ ] Unique Subsets
 * [ ] M-Coloring Problem
 * [ ] Solve The Sudoku
