@@ -166,7 +166,7 @@
 * [x] [Rat Maze with Multiple Jumps](https://practice.geeksforgeeks.org/problems/rat-maze-with-multiple-jumps3852/1#)
 * [x] [Black and White](https://practice.geeksforgeeks.org/problems/black-and-white-1587115620/1#)
 * [x] [Combination Sum](https://practice.geeksforgeeks.org/problems/combination-sum-1587115620/1#)
-* [ ] Unique Subsets
+* [x] [Unique Subsets](https://practice.geeksforgeeks.org/problems/subsets-1587115621/1)
 * [ ] M-Coloring Problem
 * [ ] Solve The Sudoku
 
