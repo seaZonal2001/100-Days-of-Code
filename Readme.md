@@ -167,7 +167,10 @@
 * [x] [Black and White](https://practice.geeksforgeeks.org/problems/black-and-white-1587115620/1#)
 * [x] [Combination Sum](https://practice.geeksforgeeks.org/problems/combination-sum-1587115620/1#)
 * [x] [Unique Subsets](https://practice.geeksforgeeks.org/problems/subsets-1587115621/1)
-* [ ] M-Coloring Problem
+* [x] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+* [x] [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+* [x] [M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#)
+* [x] [Flood Fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm1856/1#)
 * [ ] Solve The Sudoku
 
 #### Dynamic Programming
