@@ -158,7 +158,7 @@
 * [x] Light em Up
 
 #### Bitwise Operations
-* [ ] [Topic Stream Mashup: Bitwise Operations](https://codeforces.com/gym/344975)
+* [ ] [Topic Stream Mashup: Bitwise Operations](https://codeforces.com/gym/344975)(Solved Upto problems rated 1800)
 
 #### Backtracking
 * [x] [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#)
@@ -171,7 +171,10 @@
 * [x] [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 * [x] [M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#)
 * [x] [Flood Fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm1856/1#)
-* [ ] Solve The Sudoku
+* [x] [Solve The Sudoku](https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)
+* [x] [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
+
+## Week 5
 
 #### Dynamic Programming
 * [ ] Fibonacci Numbers - Bottom Up DP
