@@ -177,9 +177,9 @@
 ## Week 5
 
 #### Dynamic Programming
-* [ ] Fibonacci Numbers - Bottom Up DP
-* [ ] Fibonacci Numbers - Top Down DP
-* [ ] Print first n Fibonacci Numbers
+* [x] [Fibonacci Numbers - Bottom Up DP](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1#)
+* [x] Fibonacci Numbers - Top Down DP
+* [x] Print first n Fibonacci Numbers
 * [ ] Nth catalan number
 * [ ] Coin Change - Minimum number of coins
 * [ ] Coin Change - Number of ways
