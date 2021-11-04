@@ -180,8 +180,10 @@
 * [x] [Fibonacci Numbers - Bottom Up DP](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1#)
 * [x] Fibonacci Numbers - Top Down DP
 * [x] Print first n Fibonacci Numbers
-* [ ] Nth catalan number
-* [ ] Coin Change - Minimum number of coins
+* [x] [Minimum steps to one](https://practice.geeksforgeeks.org/problems/minimum-steps-to-minimize-n-as-per-given-condition0618/1#)
+* [x] [Coin Change - Minimum number of coins](https://practice.geeksforgeeks.org/problems/number-of-coins1824/1#)
+* [x] [The Wine Shop](https://www.hackerrank.com/contests/hashinclude/challenges/the-wine-shop/problem)
+* [x] [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1)
 * [ ] Coin Change - Number of ways
 * [ ] Ways to write n as sum
 * [ ] Count ways to reach the n'th stair
