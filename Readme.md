@@ -184,7 +184,10 @@
 * [x] [Coin Change - Minimum number of coins](https://practice.geeksforgeeks.org/problems/number-of-coins1824/1#)
 * [x] [The Wine Shop](https://www.hackerrank.com/contests/hashinclude/challenges/the-wine-shop/problem)
 * [x] [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1)
-* [ ] Coin Change - Number of ways
+* [x] [Tiling Problem](https://practice.geeksforgeeks.org/problems/count-the-number-of-ways-to-tile-the-floor-of-size-n-x-m-using-1-x-m-size-tiles0509/1)
+* [x] [Count Binary strings](https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1)
+* [x] [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1#)
+* [x] [Coin Change - Number of ways](https://leetcode.com/problems/coin-change-2/submissions/)
 * [ ] Ways to write n as sum
 * [ ] Count ways to reach the n'th stair
 * [ ] Count ways to N'th Stair(Order does not matter)
