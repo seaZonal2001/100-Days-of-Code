@@ -188,7 +188,8 @@
 * [x] [Count Binary strings](https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1)
 * [x] [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1#)
 * [x] [Coin Change - Number of ways](https://leetcode.com/problems/coin-change-2/submissions/)
-* [ ] Ways to write n as sum
+* [x] [Optimal Strategy for a Game](https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1)
+* [x] [Ways to write n as sum](https://practice.geeksforgeeks.org/problems/ways-to-write-n-as-sum-1587115621/1)
 * [ ] Count ways to reach the n'th stair
 * [ ] Count ways to N'th Stair(Order does not matter)
 * [ ] Count number of hops
@@ -207,7 +208,6 @@
 * [ ] Maximize The Cut Segments
 * [ ] Subset Sum Problem
 * [ ] 0 - 1 Knapsack Problem
-* [ ] Optimal Strategy For A Game
 * [ ] Egg Dropping Puzzle
 * [ ] Stickler Thief
 * [ ] [Educational DP Contest](https://atcoder.jp/contests/dp)
