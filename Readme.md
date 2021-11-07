@@ -196,8 +196,7 @@
 * [ ] Reach a given score
 * [ ] Minimum number of jumps
 * [ ] nCr
-* [ ] Kadane's Algorithm - I
-* [ ] Kadane's Algorithm - II
+* [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 * [ ] Unique BST's
 * [ ] Sum of all substrings of a number
 * [ ] Max sum subarray by removing at most one element
