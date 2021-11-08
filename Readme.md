@@ -190,14 +190,14 @@
 * [x] [Coin Change - Number of ways](https://leetcode.com/problems/coin-change-2/submissions/)
 * [x] [Optimal Strategy for a Game](https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1)
 * [x] [Ways to write n as sum](https://practice.geeksforgeeks.org/problems/ways-to-write-n-as-sum-1587115621/1)
-* [ ] Count ways to reach the n'th stair
-* [ ] Count ways to N'th Stair(Order does not matter)
-* [ ] Count number of hops
-* [ ] Reach a given score
+* [x] [Count ways to reach the n'th stair](https://practice.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1)
+* [x] [Count ways to N'th Stair(Order does not matter)](https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter5639/1)
+* [x] [Count number of hops](https://practice.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1)
+* [x] [Reach a given score](https://practice.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1)
 * [ ] Minimum number of jumps
 * [ ] nCr
 * [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
-* [ ] Unique BST's
+* [x] [Unique BST's](https://leetcode.com/problems/unique-binary-search-trees/)
 * [ ] Sum of all substrings of a number
 * [ ] Max sum subarray by removing at most one element
 * [ ] Longest Increasing Subsequence
