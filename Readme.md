@@ -194,8 +194,8 @@
 * [x] [Count ways to N'th Stair(Order does not matter)](https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter5639/1)
 * [x] [Count number of hops](https://practice.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1)
 * [x] [Reach a given score](https://practice.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1)
-* [ ] Minimum number of jumps
-* [ ] nCr
+* [x] [Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1#)
+* [x] [nCr](https://practice.geeksforgeeks.org/problems/ncr1019/1#)
 * [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 * [x] [Unique BST's](https://leetcode.com/problems/unique-binary-search-trees/)
 * [ ] Sum of all substrings of a number
