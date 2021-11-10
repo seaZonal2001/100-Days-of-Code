@@ -174,7 +174,7 @@
 * [x] [Solve The Sudoku](https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)
 * [x] [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
 
-## Week 5
+## Week 5-7
 
 #### Dynamic Programming
 * [x] [Fibonacci Numbers - Bottom Up DP](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1#)
@@ -198,8 +198,8 @@
 * [x] [nCr](https://practice.geeksforgeeks.org/problems/ncr1019/1#)
 * [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 * [x] [Unique BST's](https://leetcode.com/problems/unique-binary-search-trees/)
-* [ ] Sum of all substrings of a number
-* [ ] Max sum subarray by removing at most one element
+* [x] [Sum of all substrings of a number](https://practice.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number-1587115621/1)
+* [x] [Max sum subarray by removing at most one element](https://practice.geeksforgeeks.org/problems/max-sum-subarray-by-removing-at-most-one-element/1#)
 * [ ] Longest Increasing Subsequence
 * [ ] Longest Common Subsequence
 * [ ] Shortest Common Supersequence
