@@ -200,8 +200,8 @@
 * [x] [Unique BST's](https://leetcode.com/problems/unique-binary-search-trees/)
 * [x] [Sum of all substrings of a number](https://practice.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number-1587115621/1)
 * [x] [Max sum subarray by removing at most one element](https://practice.geeksforgeeks.org/problems/max-sum-subarray-by-removing-at-most-one-element/1#)
-* [ ] Longest Increasing Subsequence
-* [ ] Longest Common Subsequence
+* [x] [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1)
+* [x] [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)
 * [ ] Shortest Common Supersequence
 * [ ] Number of Unique Paths
 * [ ] Maximize The Cut Segments
