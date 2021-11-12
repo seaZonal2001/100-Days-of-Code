@@ -202,6 +202,7 @@
 * [x] [Max sum subarray by removing at most one element](https://practice.geeksforgeeks.org/problems/max-sum-subarray-by-removing-at-most-one-element/1#)
 * [x] [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1)
 * [x] [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)
+* [x] [Minimum number of deletions ans insertions](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1)
 * [ ] Shortest Common Supersequence
 * [ ] Number of Unique Paths
 * [ ] Maximize The Cut Segments
