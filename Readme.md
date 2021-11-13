@@ -203,7 +203,10 @@
 * [x] [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1)
 * [x] [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)
 * [x] [Minimum number of deletions ans insertions](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1)
-* [ ] Shortest Common Supersequence
+* [x] [Shortest Common Supersequence](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1#)
+* [x] [Print SCS](https://leetcode.com/problems/shortest-common-supersequence/submissions/)
+* [x] [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/submissions/)
+* [x] [Print All LCS](https://practice.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1)
 * [ ] Number of Unique Paths
 * [ ] Maximize The Cut Segments
 * [ ] Subset Sum Problem
