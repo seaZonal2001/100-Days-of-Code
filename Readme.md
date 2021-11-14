@@ -207,6 +207,8 @@
 * [x] [Print SCS](https://leetcode.com/problems/shortest-common-supersequence/submissions/)
 * [x] [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/submissions/)
 * [x] [Print All LCS](https://practice.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1)
+* [x] [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1)
+* [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 * [ ] Number of Unique Paths
 * [ ] Maximize The Cut Segments
 * [ ] Subset Sum Problem
