@@ -209,6 +209,8 @@
 * [x] [Print All LCS](https://practice.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1)
 * [x] [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1)
 * [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+* [x] [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)
+* [x] [Edit Distance](https://leetcode.com/problems/edit-distance/)
 * [ ] Number of Unique Paths
 * [ ] Maximize The Cut Segments
 * [ ] Subset Sum Problem
