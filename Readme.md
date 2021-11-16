@@ -211,6 +211,9 @@
 * [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 * [x] [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)
 * [x] [Edit Distance](https://leetcode.com/problems/edit-distance/)
+* [x] [Minimum number of Deletions to make array sorted](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-to-make-a-sorted-sequence3248/1)
+* [x] [Maximum Sum Increasing Subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)
+* [x] [Longest Bitonic Subsequence](https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)
 * [ ] Number of Unique Paths
 * [ ] Maximize The Cut Segments
 * [ ] Subset Sum Problem
