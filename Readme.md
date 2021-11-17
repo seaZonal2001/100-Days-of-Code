@@ -214,11 +214,11 @@
 * [x] [Minimum number of Deletions to make array sorted](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-to-make-a-sorted-sequence3248/1)
 * [x] [Maximum Sum Increasing Subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)
 * [x] [Longest Bitonic Subsequence](https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)
-* [ ] Number of Unique Paths
-* [ ] Maximize The Cut Segments
+* [x] [Number of Unique Paths](https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1)
+* [x] [Maximize The Cut Segments](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1)
 * [ ] Subset Sum Problem
-* [ ] 0 - 1 Knapsack Problem
-* [ ] Egg Dropping Puzzle
+* [x] [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
+* [x] [Egg Dropping Puzzle](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1)
 * [ ] Stickler Thief
 * [ ] [Educational DP Contest](https://atcoder.jp/contests/dp)
 
