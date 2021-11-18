@@ -216,10 +216,11 @@
 * [x] [Longest Bitonic Subsequence](https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)
 * [x] [Number of Unique Paths](https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1)
 * [x] [Maximize The Cut Segments](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1)
-* [ ] Subset Sum Problem
+* [x] [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&page=4&query=category[]Dynamic%20Programmingpage4category[]Dynamic%20Programming)
 * [x] [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
 * [x] [Egg Dropping Puzzle](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1)
-* [ ] Stickler Thief
+* [x] [Stickler Thief](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1)
+* [x] [Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)
 * [ ] [Educational DP Contest](https://atcoder.jp/contests/dp)
 
 #### Trie
