@@ -221,6 +221,11 @@
 * [x] [Egg Dropping Puzzle](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1)
 * [x] [Stickler Thief](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1)
 * [x] [Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)
+* [x] [Palindrome Patitioning](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1)
+* [x] [Allocate Minimum Number of Pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1#)
+* [x] [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+* [x] [Palindrome Patitioning II (N^2 Approach)](https://leetcode.com/problems/palindrome-partitioning-ii/submissions/)
+* [x] [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 * [ ] [Educational DP Contest](https://atcoder.jp/contests/dp)
 
 #### Trie
