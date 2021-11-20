@@ -235,4 +235,18 @@
 * [ ] Camel Case
 * [ ] Contiguous Elements XOR
 * [ ] Most frequent word in an array of strings
+
+#### Segmented and Binary Indexed Trees
+* [ ] Range Sum Queries
+* [ ] Range Min Max Queries
+* [ ] Range Longest Correct Bracket Subsequence Queries
+* [ ] Range GCD Queries
+* [ ] Largest Sum Contiguous Subarray in Range
+* [ ] Range LCM Queries
+
+#### Disjoint Set
+* [ ] Union-Find
+* [ ] Number of Connected Components
+* [ ] Detect Cycle using DSU
+* [ ] Minimum Spanning Tree using Kruskal
 # NOTE : The above list may expand or contract
