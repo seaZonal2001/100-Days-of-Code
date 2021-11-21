@@ -226,6 +226,7 @@
 * [x] [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 * [x] [Palindrome Patitioning II (N^2 Approach)](https://leetcode.com/problems/palindrome-partitioning-ii/submissions/)
 * [x] [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+* [x] [Scramble String](https://leetcode.com/problems/scramble-string/)
 * [ ] [Educational DP Contest](https://atcoder.jp/contests/dp)
 
 #### Trie
