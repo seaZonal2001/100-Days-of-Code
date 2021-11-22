@@ -230,7 +230,8 @@
 * [ ] [Educational DP Contest](https://atcoder.jp/contests/dp)
 
 #### Trie
-* [ ] Trie _ (Insert and Search)
+* [x] [Trie _ (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search0651/1)
+* [x] [Design Add and Search Words DataStructure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 * [ ] Search Query for Strings
 * [ ] Renaming Cities
 * [ ] Camel Case
