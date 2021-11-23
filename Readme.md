@@ -239,6 +239,7 @@
 * [ ] Most frequent word in an array of strings
 
 #### Segmented and Binary Indexed Trees
+* [x] [Range Minimum Query](https://practice.geeksforgeeks.org/problems/range-minimum-query/1#)
 * [ ] Range Sum Queries
 * [ ] Range Min Max Queries
 * [ ] Range Longest Correct Bracket Subsequence Queries
@@ -247,7 +248,8 @@
 * [ ] Range LCM Queries
 
 #### Disjoint Set
-* [ ] Union-Find
+* [x] [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
+* [x] [Union-Find](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1#)
 * [ ] Number of Connected Components
 * [ ] Detect Cycle using DSU
 * [ ] Minimum Spanning Tree using Kruskal
