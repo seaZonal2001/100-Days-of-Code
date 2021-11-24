@@ -232,6 +232,9 @@
 #### Trie
 * [x] [Trie _ (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search0651/1)
 * [x] [Design Add and Search Words DataStructure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+* [x] [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
+* [x] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
+* [x] [Word Break](https://leetcode.com/problems/word-break/)
 * [ ] Search Query for Strings
 * [ ] Renaming Cities
 * [ ] Camel Case
@@ -254,3 +257,4 @@
 * [ ] Detect Cycle using DSU
 * [ ] Minimum Spanning Tree using Kruskal
 # NOTE : The above list may expand or contract
+## NOTICE : To be resumed after 2nd January 2022
