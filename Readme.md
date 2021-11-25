@@ -235,6 +235,8 @@
 * [x] [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
 * [x] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 * [x] [Word Break](https://leetcode.com/problems/word-break/)
+* [x] [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)
+* [x] [Remove Sub-Folders From The File System](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)
 * [ ] Search Query for Strings
 * [ ] Renaming Cities
 * [ ] Camel Case
