@@ -237,11 +237,15 @@
 * [x] [Word Break](https://leetcode.com/problems/word-break/)
 * [x] [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)
 * [x] [Remove Sub-Folders From The File System](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)
+* [x] [Count Distinct Substrings]
+* [x] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+* [x] [Replace Words](https://leetcode.com/problems/replace-words/)
+* [x] [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)
 * [ ] Search Query for Strings
 * [ ] Renaming Cities
 * [ ] Camel Case
 * [ ] Contiguous Elements XOR
-* [ ] Most frequent word in an array of strings
+* [x] [Most frequent word in an array of strings](https://practice.geeksforgeeks.org/problems/most-frequent-word-in-an-array-of-strings3528/1#)
 
 #### Segmented and Binary Indexed Trees
 * [x] [Range Minimum Query](https://practice.geeksforgeeks.org/problems/range-minimum-query/1#)
