@@ -227,6 +227,7 @@
 * [x] [Palindrome Patitioning II (N^2 Approach)](https://leetcode.com/problems/palindrome-partitioning-ii/submissions/)
 * [x] [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 * [x] [Scramble String](https://leetcode.com/problems/scramble-string/)
+* [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 * [ ] [Educational DP Contest](https://atcoder.jp/contests/dp)
 
 #### Trie
@@ -241,11 +242,14 @@
 * [x] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 * [x] [Replace Words](https://leetcode.com/problems/replace-words/)
 * [x] [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)
-* [ ] Search Query for Strings
-* [ ] Renaming Cities
-* [ ] Camel Case
+* [x] [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)
+* [x] [Camel Case](https://leetcode.com/problems/camelcase-matching/)
+* [x] [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)
+* [x] [Maximum XOR of Two numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 * [ ] Contiguous Elements XOR
 * [x] [Most frequent word in an array of strings](https://practice.geeksforgeeks.org/problems/most-frequent-word-in-an-array-of-strings3528/1#)
+* [x] [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/)
+* [x] [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/)
 
 #### Segmented and Binary Indexed Trees
 * [x] [Range Minimum Query](https://practice.geeksforgeeks.org/problems/range-minimum-query/1#)
