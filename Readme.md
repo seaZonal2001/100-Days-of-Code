@@ -15,7 +15,7 @@
 
 - [Codeforces](https://codeforces.com/profile/surjit_2001)
 - [Codechef](https://www.codechef.com/users/surjit_2001)
-- [Leetcode](https://leetcode.com/seasonal_2001/)
+- [Leetcode](https://leetcode.com/SURJIT_2001/)
 - [Geeksforgeeks](https://auth.geeksforgeeks.org/user/surjit20012001/profile)
 - [Hackerearth](https://www.hackerearth.com/@surjit20012001)
 - [Hackerrank](https://www.hackerrank.com/surjit20012001)
@@ -129,6 +129,9 @@
 * [x] [Minimum Cost Path](https://leetcode.com/problems/minimum-path-sum/)
 * [x] [Bridge Edge in a Graph](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1#)
 * [x] [Strongly Connected Component(Tarjan's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1#)
+* [x] [Shortest Cycle in an Unweighted Undirected Graph](https://www.geeksforgeeks.org/shortest-cycle-in-an-undirected-unweighted-graph/)
+* [x] [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)
+* [x] [0/1 BFS](https://www.codechef.com/problems/REVERSE)
 
 #### Greedy Algo I
 * [x] [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1#)
@@ -263,6 +266,8 @@
 #### Disjoint Set
 * [x] [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
 * [x] [Union-Find](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1#)
+* [x] [Colorful Array](https://www.spoj.com/problems/CLFLARR/)
+* [x] [Kruskal's Algorithm](https://www.spoj.com/problems/MST/)
 * [ ] Number of Connected Components
 * [ ] Detect Cycle using DSU
 * [ ] Minimum Spanning Tree using Kruskal

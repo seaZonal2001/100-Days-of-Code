@@ -11,7 +11,7 @@ vector<int> manachers(string s){
         if(i<r){
             LPS[i]=min(LPS[mirror],r-i);
         }
-        while(s[i+i+LPS[i]]==s[i-1-LPS[i]])LPS[i]++;
+        while(s[i+1+LPS[i]]==s[i-1-LPS[i]])LPS[i]++;
         if(i+LPS[i]>r){
             c=i;
             r=i+LPS[i];

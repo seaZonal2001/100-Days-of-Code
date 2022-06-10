@@ -1,31 +1,30 @@
 #include<bits/stdc++.h>
 using namespace std;
-
  // } Driver Code Ends
+
+
 class Solution
 {
 	public:
 	//Function to find sum of weights of edges of the Minimum Spanning Tree.
     int spanningTree(int V, vector<vector<int>> adj[])
     {
-        // code here
-    priority_queue<tuple<int,int,int>,vector<tuple<int,int,int>>,greater<tuple<int,int,int>>> pq;
-    vector<bool> visited(V,false);
-    pq.emplace(make_tuple(0,0,-1));
-    int weight=0;
-    while(!pq.empty()){
-        auto i=pq.top();
-        pq.pop();
-        if(visited[get<1>(i)])continue;
-        weight+=get<0>(i);
-        visited[get<1>(i)]=true;
-        for(int j=0;j<adj[get<1>(i)].size();j++){
-            if(!visited[adj[get<1>(i)][j][0]]){
-                pq.emplace(make_tuple(adj[get<1>(i)][j][1],adj[get<1>(i)][j][0],get<1>(i)));
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        pq.emplace(0,0);
+        vector<bool> visited(V,false);
+        int res=0;
+        while(!pq.empty()){
+            int to=pq.top().second;
+            int w=pq.top().first;
+            pq.pop();
+            if(visited[to])continue;
+            visited[to]=true;
+            res+=w;
+            for(auto &x:adj[to]){
+                if(!visited[x[0]])pq.emplace(x[1],x[0]);
             }
         }
-    }
-    return weight;
+        return res;
     }
 };
 
