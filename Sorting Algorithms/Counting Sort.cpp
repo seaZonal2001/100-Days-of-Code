@@ -27,12 +27,15 @@ void countingSort(vector<int> &arr,int &sz){
         freq[arr[i]-mn_ele]++;
     }
 
+    for(int i=1;i<K;i++){
+        freq[i]+=freq[i-1];
+    }
+
     vector<int> sorted(sz);
-    int l=0;
-    for(int i=0;i<K;i++){
-        for(int j=0;j<freq[i];j++){
-            sorted[l++]=i+mn_ele;
-        }
+    
+    for(int i=sz-1;i>0;i--){
+        freq[arr[i]-mn_ele]--;
+        sorted[freq[arr[i]-mn_ele]]=arr[i];
     }
 
     for(int i=0;i<sz;i++)arr[i]=sorted[i];
