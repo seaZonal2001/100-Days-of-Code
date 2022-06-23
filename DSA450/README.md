@@ -24,7 +24,11 @@
 * [] [Maximum Product subarray](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)
 * [] [Longest Consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1)
 * [] [Buy and sell share atmost twice](https://practice.geeksforgeeks.org/problems/buy-and-sell-a-share-at-most-twice/1/)
+<<<<<<< HEAD
 * [] [Array subset of another array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1)
+=======
+* [x] [Array subset of another array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1)
+>>>>>>> DSA450
 * [] [Triplet Sum in array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)
 * [] [Trapping Rain water](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
 * [] [Chocolate distribution problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
