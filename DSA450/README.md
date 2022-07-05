@@ -37,3 +37,16 @@
 * [x] [Find the median](https://practice.geeksforgeeks.org/problems/find-the-median0527/1)
 * [x] [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 * [x] [Majority element III](https://www.codingninjas.com/codestudio/problems/elements-occur-more-than-n-k-times_1113146?topList=love-babbar-dsa-sheet-problems)
+
+## Matrix
+
+* [x] [spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1#)
+* [x] [Search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+* [x] [Median in a row-wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
+* [x] [Row with max 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)
+* [x] [Sorted Matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1/#)
+* [x] [Common elements present in all rows of a matrix](https://www.codingninjas.com/codestudio/problems/common-elements-present-in-all-rows-of-a-matrix_1118111?leftPanelTab=3)
+* [x] [Maximum difference between a pair in matrix](https://practice.geeksforgeeks.org/problems/maximum-difference-between-pair-in-a-matrix/1)
+* [x] [Rotate image](https://leetcode.com/problems/rotate-image/)
+* [x] [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
+* [x] [Kth element in matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1#)
